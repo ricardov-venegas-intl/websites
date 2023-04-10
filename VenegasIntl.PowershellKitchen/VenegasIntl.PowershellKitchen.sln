@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VenegasIntl.PowershellKitchen", "VenegasIntl.PowershellKitchen.csproj", "{9252C701-D9EF-4F43-B129-7F72D3D0AFA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9252C701-D9EF-4F43-B129-7F72D3D0AFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9252C701-D9EF-4F43-B129-7F72D3D0AFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9252C701-D9EF-4F43-B129-7F72D3D0AFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9252C701-D9EF-4F43-B129-7F72D3D0AFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {418EBEF3-AF9E-4846-8B2A-CD15004BF2AC}
+	EndGlobalSection
+EndGlobal
